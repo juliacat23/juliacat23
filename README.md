@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @juliacat23
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+juliacat23/juliacat23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliacat23](https://github.com/juliacat23/github-readme-stats)
+
+--->
