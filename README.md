@@ -7,7 +7,7 @@ My name is Julia Catalano and I'm a rising fourth-year neuroscience major at The
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590741%20lines%20of%20code-blue)
 
@@ -66,5 +66,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2021
+ Last Updated on 26/06/2021
 <!--END_SECTION:waka-->
