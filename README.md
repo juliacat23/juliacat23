@@ -69,5 +69,3 @@ Mac                      12 hrs 28 mins      ███████████�
  Last Updated on July 07, 2021
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliacat23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
