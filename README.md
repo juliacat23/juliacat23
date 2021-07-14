@@ -1,6 +1,6 @@
 ## Hello World!
 
-My name is Julia Catalano and I'm a rising fourth-year neuroscience major at The Ohio State University. I've always been fascinated by computers and programming but never took the time to learn exactly *how* to program. Stuck at home during quarantine, I decided this was the perfect time to finally dive deep into the world of everything computer science. My New Year's Resolution for 2021 is to learn more about programming and ways I can apply it to my education, future jobs, and everyday life! 
+My name is Julia Catalano and I'm a rising fourth-year Neuroscience major at The Ohio State University. I've always been fascinated by computers and programming but never took the time to learn exactly *how* to program. Stuck at home during quarantine, I decided this was the perfect time to finally dive deep into the world of everything computer science. My New Year's Resolution for 2021 is to learn more about programming and ways I can apply it to my education, future jobs, and everyday life! 
 
 
 
