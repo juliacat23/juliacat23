@@ -22,5 +22,5 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
-          IGNORED_REPOS: "juliacat23"
+          IGNORED_REPOS: "juliacat23, resume"
           LOCALE: "en"
