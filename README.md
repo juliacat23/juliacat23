@@ -2,6 +2,7 @@
 
 My name is Julia Catalano and I'm a rising fourth-year Neuroscience major at The Ohio State University. I've always been fascinated by computers and programming but never took the time to learn exactly *how* to program. Stuck at home during quarantine, I decided this was the perfect time to finally dive deep into the world of everything computer science. My New Year's Resolution for 2021 is to learn more about programming and ways I can apply it to my education, future jobs, and everyday life! 
 
+[![Spotify](https://juliacat23.vercel.app/api/spotify)](https://open.spotify.com/user/y3a6e2u2qsx7fwrf2ulkaalgh)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205817%20lines%20of%20code-blue)
