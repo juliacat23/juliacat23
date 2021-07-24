@@ -34,7 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliacat23&show_icons=true&locale=en&layout=compact" alt="juliacat23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliacat23&show_icons=true&locale=en" alt="juliacat23" /></p>
-
-{{ LANGUAGE_TEMPLATE_START:max=5 }}
-This text will be printed at most 5 times
-{{ LANGUAGE_TEMPLATE_END }}
