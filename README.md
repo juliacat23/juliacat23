@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **catalano.43@osu.edu**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/1grdVF_ZbL1qpje8BmB9v0qPX62fiF_5z/view?usp=sharing)
+- 📄 View my resume [here](https://github.com/juliacat23/resume/blob/main/Catalano_CV.pdf)
 
 - 🏊‍♀️ My hobbies include **swimming, watching football, reading mystery novels, and learning how to program**
 
